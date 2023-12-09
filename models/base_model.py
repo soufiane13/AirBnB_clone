@@ -3,7 +3,8 @@
 
 import uuid
 from datetime import datetime
-from models import storage
+import models
+from models import *
 
 class BaseModel:
 

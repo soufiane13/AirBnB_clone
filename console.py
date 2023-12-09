@@ -5,7 +5,7 @@ import json
 import re
 import sys
 from models import *
-from models import storage
+
 
 
 class HBNBCommand(cmd.Cmd):
